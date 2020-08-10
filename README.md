@@ -11,6 +11,8 @@ Selab Interns Unity Game Project 🎮
 
 [juhansae](https://github.com/Verssae)
 
+## Preview
+[Play Video](https://www.youtube.com/watch?v=_piPhJMf8UM)
 
 ## How to play
 

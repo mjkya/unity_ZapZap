@@ -5,8 +5,10 @@
 Selab Interns Unity Game Project 🎮
 
 ## Developed by
-[mjkya](https://github.com/mjkya)<hr/>
-[3people](https://github.com/3people)<hr/>
+[mjkya](https://github.com/mjkya)
+
+[3people](https://github.com/3people)
+
 [juhansae](https://github.com/Verssae)
 
 
